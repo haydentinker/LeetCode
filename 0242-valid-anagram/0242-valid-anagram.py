@@ -5,8 +5,7 @@ class Solution:
 
         counter1=Counter(s)
         counter2=Counter(t)
-        for i in s:
-            if not counter1[i] == counter2[i]:
-                return False 
+        if not counter1==counter2:
+            return False
 
         return True
