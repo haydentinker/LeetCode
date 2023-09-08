@@ -14,9 +14,14 @@ class Solution:
         #     i+=1
         #     j-=1
         # return True
+
+        #Cleaner solution
         result=""
         for i in s:
+            #If i is alphanumeric then append to result string
             if i.isalnum():
                 result+=i
+        #Make sure result string is lowercase
         result=result.lower()
+        #If result == result backwards
         return result==result[::-1]
