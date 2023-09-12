@@ -5,9 +5,9 @@ class Solution:
         while low<=high:
             partition= (high+low)//2
             if nums[partition]<target:
-                low+=1
+                low=partition+1
             elif nums[partition]>target:
-                high-=1
+                high=partition-1
             elif nums[partition]==target:
                 return partition
         return -1
