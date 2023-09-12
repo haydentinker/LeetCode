@@ -4,7 +4,6 @@ class Solution:
         low=0
         while low<=high:
             partition= (high+low)//2
-            print(partition)
             if nums[partition]<target:
                 low+=1
             elif nums[partition]>target:
