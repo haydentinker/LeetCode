@@ -14,13 +14,13 @@ class Solution:
                 if matrix[rowPartition][colPartition]==target:
                     return True
                 elif matrix[rowPartition][colPartition]<target:
-                    left+=1
+                    left=colPartition+1
                 else:
-                    right-=1
+                    right=colPartition-1
             if matrix[rowPartition][(left+right)//2]<target:
-                bottom+=1
+                bottom=rowPartition+1
             else:
-                top-=1
+                top=rowPartition-1
                     
 
         return False
