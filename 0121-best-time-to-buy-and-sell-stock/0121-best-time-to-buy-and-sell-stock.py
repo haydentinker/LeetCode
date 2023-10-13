@@ -4,8 +4,7 @@ class Solution:
         right=1
         result=0
         while right<len(prices):
-            newResult=prices[right]-prices[left]
-            result=max(newResult,result)
+            result=max((prices[right]-prices[left]),result)
             if prices[left]>prices[right]:
                 left=right
             
