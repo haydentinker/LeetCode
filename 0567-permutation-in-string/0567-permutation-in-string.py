@@ -1,8 +1,6 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         left=0
-        if len(s1)>len(s2):
-            return False
         s1_count={}
         for i in range(len(s1)):
             s1_count[s1[i]]=s1_count.get(s1[i],0)+1
