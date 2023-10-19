@@ -1,6 +1,8 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
         # First soltion that uses O(n) extra space
+        # Result: 522 ms and 32.2 MB
+        # Faster but uses a little bit more memory
         # foundNums=set()
         # for i in nums:
         #     if i in foundNums:
@@ -8,6 +10,8 @@ class Solution:
         #     foundNums.add(i)
         # return 0
         # Floyd's algorithm
+        # Result: 551ms and 30.9 MB
+        # Slow but uses less memory
         fast,slow=0,0
         while True:
             slow=nums[slow]
