@@ -7,12 +7,11 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         result=ListNode()
         resultPointer=result
-        list1Node=l1
-        list2Node=l2
         carry=0
-        print('hi')
-        while list1Node and list2Node:
-            currentSum=list1Node.val+list2Node.val+carry
+        while l1 or l2:
+            value1= l1.val if l1 else 0
+            value2= l2.val if l2 else 0
+            currentSum=value1+value2+carry
             carry=0
     
             if currentSum>=10:
@@ -21,30 +20,9 @@ class Solution:
             else:
                 result.next=ListNode(val=currentSum)
             result=result.next
-            list1Node=list1Node.next
-            list2Node=list2Node.next
-        if list1Node:
-            while list1Node:
-                currentSum=list1Node.val+carry
-                carry=0
-                if currentSum>=10:
-                    carry=1
-                    result.next=ListNode(val=currentSum%10)
-                else:
-                    result.next=ListNode(val=currentSum)
-                result=result.next
-                list1Node=list1Node.next
-        else:
-            while list2Node:
-                currentSum=list2Node.val+carry
-                carry=0
-                if currentSum>=10:
-                    carry=1
-                    result.next=ListNode(val=currentSum%10)
-                else:
-                    result.next=ListNode(val=currentSum)
-                result=result.next
-                list2Node=list2Node.next
+            l1=l1.next if l1 else None
+            l2=l2.next if l2 else None
+        
         if carry:
             result.next=ListNode(val=1)
 
