@@ -9,12 +9,16 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        #Create a hash map with None to None
         oldToNew={None:None}
         currNode=head
+        #Loop through the list 1 time to initialize copies of nodes
+        #We need to do this because some nodes have a random pointer to a future node
         while currNode:
             copyNode=Node(currNode.val)
             oldToNew[currNode]=copyNode
             currNode=currNode.next
+        #After initializing nodes, pass through head again and use the hash map to set the next and random pointers
         currNode=head
         while currNode:
             oldToNew[currNode].next=oldToNew[currNode.next]
