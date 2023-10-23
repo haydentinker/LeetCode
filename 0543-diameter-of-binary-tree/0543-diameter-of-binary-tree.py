@@ -10,12 +10,13 @@ class Solution:
         res=[0]
         def dfs(root):
             if not root:
-                return -1
+                return 0
             left=dfs(root.left)
             right=dfs(root.right)
 
-            res[0]=max(2+left+right,res[0])
+            res[0]=max(left+right,res[0])
 
             return 1+max(left,right)
+            
         dfs(root)
         return res[0]
