@@ -5,18 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        
-        def compareTrees(pRoot,qRoot):
-        
-            if pRoot and qRoot:
-                if not (pRoot.val==qRoot.val):
-                    return False
-                left=compareTrees(pRoot.left,qRoot.left)
-                right=compareTrees(pRoot.right,qRoot.right)    
-                return left and right
-            elif not pRoot and not qRoot:
-                return True
-            return False
-
-        return compareTrees(p,q)
+    def isSameTree(self, pRoot: Optional[TreeNode], qRoot: Optional[TreeNode]) -> bool:
+       
+        if pRoot and qRoot:
+            if not (pRoot.val==qRoot.val):
+                return False
+            left=self.isSameTree(pRoot.left,qRoot.left)
+            right=self.isSameTree(pRoot.right,qRoot.right)    
+            return left and right
+        elif not pRoot and not qRoot:
+            return True
+        return False
