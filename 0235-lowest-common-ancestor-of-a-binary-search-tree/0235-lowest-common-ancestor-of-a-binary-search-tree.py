@@ -7,7 +7,6 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if root:
             if (root.val==p.val or q.val==root.val):
                 return root
             elif (p.val<root.val and q.val>root.val) or (q.val<root.val and p.val>root.val):
