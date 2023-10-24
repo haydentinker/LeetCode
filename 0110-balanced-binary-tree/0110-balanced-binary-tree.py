@@ -21,4 +21,4 @@ class Solution:
         left=self.dfs(root.left)
         if (abs(right-left)>1):
             self.flag=False
-        return 1+max(self.dfs(root.left),self.dfs(root.right))
+        return 1+max(right,left)
