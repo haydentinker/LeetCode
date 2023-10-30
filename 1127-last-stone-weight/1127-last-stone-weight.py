@@ -2,7 +2,6 @@ class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         maxHeap=[-x for x in stones]
         heapify(maxHeap)
-        print(maxHeap)
         while maxHeap:
             if len(maxHeap)==1:
                 return -1*heappop(maxHeap)
