@@ -6,18 +6,33 @@
 #         self.right = right
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
-        
-        tree=[]
-        stack=[]
-        cur=root
+        self.res=[]
+        self.prev=None
+        self.maxCount=0
+        self.curCount=0
+        self.inorder(root)
+      
+        return self.res
+    def inorder(self,root):
+            if not root:
+                return
+            
+            self.inorder(root.left)
+            if self.prev is None:
+                self.prev=root.val
+                self.curCount=1    
+            elif self.prev==root.val:
+                self.curCount+=1
+            else:
+                self.prev=root.val
+                self.curCount=1
 
-        while cur or stack:
-            while cur:
-                stack.append(cur)
-                cur=cur.left
-            cur=stack.pop()
-            tree.append(cur.val)
-            cur=cur.right
-        treeCount=Counter(tree).most_common()
-        maxCount=treeCount[0][1]
-        return [val for val,count in treeCount if count ==maxCount]
+            if self.curCount>self.maxCount:
+                self.maxCount=self.curCount
+                self.res=[root.val]
+            elif self.curCount==self.maxCount:
+                self.res.append(root.val)
+            
+            self.inorder(root.right)
+
+            return
