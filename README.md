@@ -21,10 +21,12 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/haydentinker/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
