@@ -17,10 +17,12 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/haydentinker/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haydentinker/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/haydentinker/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
@@ -48,4 +50,8 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haydentinker/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Math
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
