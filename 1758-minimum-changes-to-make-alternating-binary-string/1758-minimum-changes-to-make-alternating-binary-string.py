@@ -1,16 +1,11 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        count0=0
-        count1=0
+        oneStartingCount, zeroStartingCount= 0,0
         for i in range(len(s)):
-            if i%2==0:
-                if s[i]!='0':
-                    count0+=1
-                else:   
-                    count1+=1
-            else:
-                if s[i]!='1':
-                    count0+=1
-                else:   
-                    count1+=1 
-        return min(count1,count0)
+            expected1Pattern = '0' if i % 2 == 0 else '1'
+            expected0Pattern = '1' if i % 2 == 0 else '0'
+            if not s[i] == expected1Pattern:
+                oneStartingCount +=1
+            if not s[i] == expected0Pattern:
+                zeroStartingCount +=1
+        return min(oneStartingCount, zeroStartingCount)
