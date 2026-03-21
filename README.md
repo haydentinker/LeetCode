@@ -51,6 +51,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/haydentinker/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haydentinker/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/haydentinker/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0027-remove-element](https://github.com/haydentinker/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
+| [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/haydentinker/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haydentinker/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
