@@ -37,6 +37,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0067-add-binary](https://github.com/haydentinker/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/haydentinker/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/haydentinker/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0027-remove-element](https://github.com/haydentinker/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/haydentinker/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/haydentinker/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -86,6 +88,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haydentinker/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/haydentinker/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
