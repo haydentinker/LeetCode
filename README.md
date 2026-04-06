@@ -41,6 +41,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/haydentinker/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/haydentinker/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/haydentinker/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/haydentinker/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/haydentinker/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -202,6 +203,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
+| [2069-walking-robot-simulation-ii](https://github.com/haydentinker/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
