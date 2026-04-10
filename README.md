@@ -52,6 +52,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0027-remove-element](https://github.com/haydentinker/LeetCode/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/haydentinker/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/haydentinker/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -148,6 +149,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/haydentinker/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
