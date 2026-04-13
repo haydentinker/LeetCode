@@ -61,6 +61,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1582-special-positions-in-a-binary-matrix](https://github.com/haydentinker/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/haydentinker/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/haydentinker/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
