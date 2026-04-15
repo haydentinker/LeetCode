@@ -21,6 +21,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/haydentinker/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/haydentinker/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/haydentinker/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/haydentinker/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bit Manipulation
@@ -66,6 +67,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/haydentinker/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/haydentinker/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/haydentinker/LeetCode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/haydentinker/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/haydentinker/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
