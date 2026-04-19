@@ -3,23 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # One Solution
-        # nums.sort()
+        count = [0, 0, 0]
 
-        left=0
-        right=len(nums)-1
+        for num in nums:
+            count[num] += 1
 
-        while left<=right:
-            print(nums)
-            curNum=nums[left]
-            del nums[left]
-            if curNum==0:
-                left+=1
-                nums.insert(0,0)
-            elif curNum==2:
-                right-=1
-                nums.append(2)
-            else:
-                nums.insert(left,1)
-                left+=1
-            
+        i = 0
+        for color in range(3):
+            for _ in range(count[color]):
+                nums[i] = color
+                i += 1
+        
