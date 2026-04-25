@@ -83,6 +83,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haydentinker/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/haydentinker/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/haydentinker/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/haydentinker/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/haydentinker/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -104,6 +105,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [2463-minimum-total-distance-traveled](https://github.com/haydentinker/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/haydentinker/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/haydentinker/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/haydentinker/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
@@ -140,6 +142,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/haydentinker/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/haydentinker/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haydentinker/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/haydentinker/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
@@ -227,6 +230,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/haydentinker/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/haydentinker/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/haydentinker/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/haydentinker/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
@@ -268,4 +272,8 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/haydentinker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
