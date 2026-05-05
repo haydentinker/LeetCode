@@ -164,6 +164,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/haydentinker/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/haydentinker/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/haydentinker/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
@@ -260,6 +261,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/haydentinker/LeetCode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 ## Design
 |  |
