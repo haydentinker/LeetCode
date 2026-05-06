@@ -71,6 +71,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1727-largest-submatrix-with-rearrangements](https://github.com/haydentinker/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/haydentinker/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/haydentinker/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/haydentinker/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -169,6 +170,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/haydentinker/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/haydentinker/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -180,6 +182,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1582-special-positions-in-a-binary-matrix](https://github.com/haydentinker/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/haydentinker/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/haydentinker/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/haydentinker/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/haydentinker/LeetCode/tree/master/2906-construct-product-matrix) |
