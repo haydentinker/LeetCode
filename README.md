@@ -55,6 +55,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/haydentinker/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/haydentinker/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/haydentinker/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/haydentinker/LeetCode/tree/master/0056-merge-intervals) |
@@ -128,6 +129,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/haydentinker/LeetCode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
