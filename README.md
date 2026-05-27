@@ -67,6 +67,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -221,6 +222,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0070-climbing-stairs](https://github.com/haydentinker/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/haydentinker/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -263,6 +265,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0104-maximum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/haydentinker/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
