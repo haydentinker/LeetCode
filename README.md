@@ -8,6 +8,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/haydentinker/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
@@ -132,6 +133,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haydentinker/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -224,6 +226,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
