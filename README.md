@@ -46,6 +46,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/haydentinker/LeetCode/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/haydentinker/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/haydentinker/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haydentinker/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -80,6 +81,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1929-concatenation-of-array](https://github.com/haydentinker/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/haydentinker/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2043-simple-bank-system](https://github.com/haydentinker/LeetCode/tree/master/2043-simple-bank-system) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/haydentinker/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/haydentinker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/haydentinker/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -135,6 +137,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haydentinker/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2043-simple-bank-system](https://github.com/haydentinker/LeetCode/tree/master/2043-simple-bank-system) |
 | [2615-sum-of-distances](https://github.com/haydentinker/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/haydentinker/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/haydentinker/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -285,6 +288,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
+| [2043-simple-bank-system](https://github.com/haydentinker/LeetCode/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/haydentinker/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
 |  |
