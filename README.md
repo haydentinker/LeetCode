@@ -64,6 +64,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0056-merge-intervals](https://github.com/haydentinker/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/haydentinker/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -213,6 +214,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/haydentinker/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
