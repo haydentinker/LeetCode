@@ -10,11 +10,9 @@ class Solution:
         def traverse(curr):
             if not curr or len(nodes) >=k:
                 return 
-            if curr.left:
-                traverse(curr.left)
+            traverse(curr.left)
             nodes.append(curr.val)
-            if curr.right:
-                traverse(curr.right)
+            traverse(curr.right)
         traverse(root)
         return nodes[k-1]
         
