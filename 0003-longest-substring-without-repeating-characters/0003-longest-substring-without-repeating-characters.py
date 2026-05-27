@@ -6,7 +6,9 @@ class Solution:
         for right in range(len(s)):
             while s[right] in charSet:
                 charSet.remove(s[left])
-                left+=1
+                left += 1
             charSet.add(s[right])
-            result=max(len(charSet),result)
+            result = max(result, len(charSet))
+        
+
         return result
