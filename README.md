@@ -241,11 +241,13 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/haydentinker/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -254,6 +256,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/haydentinker/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -262,6 +265,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/haydentinker/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
