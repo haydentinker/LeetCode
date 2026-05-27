@@ -69,6 +69,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/haydentinker/LeetCode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -227,6 +228,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0070-climbing-stairs](https://github.com/haydentinker/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haydentinker/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/haydentinker/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/haydentinker/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -310,6 +312,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/haydentinker/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/haydentinker/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/haydentinker/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
