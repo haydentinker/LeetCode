@@ -1,22 +1,27 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap={i:[] for i in range(numCourses)}
-        for crs, pre in prerequisites:
-            preMap[crs].append(pre)
-        visited=set()
+        graph = {i: [] for i in range(numCourses)}
+        for a, b in prerequisites:
+            graph[a].append(b)
         
-        def dfs(course):
-            if course in visited:
+        UNVISITED = 0
+        VISITING = 1
+        VISITED = 2
+        state = [UNVISITED] * numCourses
+
+        def dfs(node):
+            if state[node] == VISITING:
                 return False
-            if preMap[course]==[]:
+            if state[node] == VISITED:
                 return True
-            visited.add(course)
-            for i in preMap[course]:
-                if not dfs(i):return False
-            visited.remove(course)
-            preMap[course]=[]
+            state[node] = VISITING
+            for neighbor in graph[node]:
+                if not dfs(neighbor):
+                    return False
+                
+            state[node] = VISITED
             return True
-        for crs in range(numCourses):
-            if not dfs(crs):
+        for i in range(numCourses):
+            if not dfs(i):
                 return False
         return True
