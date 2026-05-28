@@ -13,6 +13,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0067-add-binary](https://github.com/haydentinker/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/haydentinker/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/haydentinker/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/haydentinker/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -148,6 +149,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/haydentinker/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haydentinker/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/haydentinker/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -200,6 +202,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/haydentinker/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/haydentinker/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/haydentinker/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/haydentinker/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -249,6 +252,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
