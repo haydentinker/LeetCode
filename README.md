@@ -65,6 +65,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0048-rotate-image](https://github.com/haydentinker/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/haydentinker/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/haydentinker/LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/haydentinker/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haydentinker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haydentinker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -364,6 +365,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/haydentinker/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/haydentinker/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/haydentinker/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/haydentinker/LeetCode/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/haydentinker/LeetCode/tree/master/2751-robot-collisions) |
@@ -430,6 +432,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/haydentinker/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/haydentinker/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/haydentinker/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
