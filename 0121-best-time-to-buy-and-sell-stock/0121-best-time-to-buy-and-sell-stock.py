@@ -1,17 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        left = 0 
-        right = 1
-        maxProfit = 0
-        while left < right and right < len(prices):
-            if prices[left] > prices[right]:
+        left, right, res = 0, 1, 0 
+        while right < len(prices):
+            res = max(res, prices[right] - prices[left])
+            if prices[right] < prices[left]:
                 left = right
-                right +=1
-            else:
-                maxProfit = max(maxProfit, prices[right]-prices[left])
-                right +=1
+            right +=1
 
-        return maxProfit
+
+        return res
 
 
 
