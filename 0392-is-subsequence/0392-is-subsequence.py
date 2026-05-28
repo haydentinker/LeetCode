@@ -6,5 +6,4 @@ class Solution:
             if s[sIndex] == t[tIndex]:
                 sIndex +=1
             tIndex +=1
-        print(sIndex, tIndex)
         return True if sIndex >= len(s) else False
