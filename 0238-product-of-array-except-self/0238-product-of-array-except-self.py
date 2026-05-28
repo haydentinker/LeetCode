@@ -1,23 +1,17 @@
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # Brute Force Method
-        # for i in range(len(nums)):
-        #     newEntry=1
-        #     for index,j in enumerate(nums):
-        #         if (index==i):
-        #             pass
-        #         else:
-        #             newEntry*=j
-        #     result.append(newEntry)
-        result=[]
-        prefix=1
-        for num in nums:
-            prefix*=num
-            result.append(prefix)
-        postfix=1
-        for i in range(len(nums)-1,0,-1):
-            result[i]=postfix*result[i-1]
-            postfix*=nums[i]
-        result[0]=postfix
+   def productExceptSelf(self, nums):
+        n = len(nums)
+        res = []
+        prefix = 1
+        suffix = 1
 
-        return result
+        for i in range(0, n):
+            prefix *= nums[i]
+            res.append(prefix)
+
+        for i in range(n-1, 0, -1):
+            res[i] = suffix * res[i-1]
+            suffix *= nums[i]
+        res[0] = suffix
+
+        return res
