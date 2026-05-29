@@ -1,26 +1,27 @@
+from collections import Counter
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not t:
+        if t == "":
             return ""
-        countT,window={},{}
-        for c in t:
-            countT[c]=1+ countT.get(c,0)
-        left,have,need=0,0,len(countT)
-        result,resultLen="", float('infinity')
+        tCount = Counter(t)
+        have, need = 0, len(tCount)
+        left = 0 
+        count = {}
+        resLength= float('inf')
+        res = [-1,-1]
         for right in range(len(s)):
-            #Get new char
-            newChar=s[right]
-            #Update Window
-            window[newChar]=1+window.get(newChar,0)
-            #Check to see if char in count and then see if count is same
-            if newChar in countT and countT[newChar]==window[newChar]:
-                have+=1
-            while have==need:
-                if (right-left+1)<resultLen:
-                    resultLen=right-left+1
-                    result=s[left:right+1]
-                window[s[left]]-=1
-                if s[left] in countT and window[s[left]]<countT[s[left]]:
+            count[s[right]] = count.get(s[right], 0 ) + 1
+            if s[right] in tCount and count[s[right]] == tCount[s[right]]:
+                have +=1 
+
+            while have == need:
+               
+                if (right - left +1 ) < resLength:
+                    res = [left, right]
+                    resLength = right - left + 1
+                count[s[left]] -= 1 
+                if s[left] in tCount and count[s[left]] < tCount[s[left]]:
                     have -=1
-                left+=1           
-        return result
+                left +=1
+        l, r = res 
+        return s[l: r+1]
