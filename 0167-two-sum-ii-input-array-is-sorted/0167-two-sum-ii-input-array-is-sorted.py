@@ -1,18 +1,13 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        # resultMap={}
-        # for index,i in  enumerate(numbers):
-        #     if i in resultMap.keys():
-        #         return [resultMap[i],index+1]
-        #     else:
-        #         resultMap[target-i]=index+1
-        left,right=0,len(numbers)-1
-        while left<right:
-            newSum=numbers[left]+numbers[right]
-            if newSum>target:
-                right-=1
-            elif newSum<target:
-                left+=1
+        left, right = 0, len(numbers) -1 
+        while right < len(numbers) and left <= right:
+            pointerSum = numbers[left] + numbers[right]
+            if pointerSum == target:
+                return [left +1 , right +1]
+            elif pointerSum > target:
+                right -=1
             else:
-                return [left+1,right+1]
-        return []
+                left+=1
+        
+
