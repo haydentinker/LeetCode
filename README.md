@@ -11,6 +11,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/haydentinker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/haydentinker/LeetCode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/haydentinker/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/haydentinker/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0392-is-subsequence) |
@@ -158,6 +159,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0001-two-sum](https://github.com/haydentinker/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/haydentinker/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/haydentinker/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/haydentinker/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydentinker/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/haydentinker/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/haydentinker/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/haydentinker/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
