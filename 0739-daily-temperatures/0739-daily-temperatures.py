@@ -3,9 +3,10 @@ class Solution:
         stack = []
         res = [0] * len(temperatures)
 
-        for i, temp in enumerate(temperatures):
-            while stack and temperatures[stack[-1]] < temp:
-                idx = stack.pop()
-                res[idx] = i - idx
+        for i in range(len(temperatures)):
+            while stack and temperatures[i] > temperatures[stack[-1]]:
+                prevTemp = stack.pop()
+                res[prevTemp] = i - prevTemp
             stack.append(i)
+
         return res
