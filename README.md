@@ -387,6 +387,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/haydentinker/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/haydentinker/LeetCode/tree/master/0155-min-stack) |
 | [2043-simple-bank-system](https://github.com/haydentinker/LeetCode/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/haydentinker/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
@@ -398,6 +399,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | ------- |
 | [0020-valid-parentheses](https://github.com/haydentinker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/haydentinker/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/haydentinker/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/haydentinker/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/haydentinker/LeetCode/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/haydentinker/LeetCode/tree/master/2751-robot-collisions) |
