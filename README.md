@@ -81,6 +81,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/haydentinker/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/haydentinker/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/haydentinker/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/haydentinker/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/haydentinker/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -271,6 +272,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0209-minimum-size-subarray-sum](https://github.com/haydentinker/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/haydentinker/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/haydentinker/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/haydentinker/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/haydentinker/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
