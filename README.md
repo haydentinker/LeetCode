@@ -314,6 +314,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/haydentinker/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/haydentinker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/haydentinker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/haydentinker/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -420,6 +422,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/haydentinker/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/haydentinker/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/haydentinker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -455,6 +458,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/haydentinker/LeetCode/tree/master/0207-course-schedule) |
+| [2685-count-the-number-of-complete-components](https://github.com/haydentinker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
