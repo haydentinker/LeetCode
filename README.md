@@ -89,6 +89,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0739-daily-temperatures](https://github.com/haydentinker/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/haydentinker/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/haydentinker/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/haydentinker/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/haydentinker/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -198,6 +199,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0062-unique-paths](https://github.com/haydentinker/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/haydentinker/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/haydentinker/LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/haydentinker/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haydentinker/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/haydentinker/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -262,6 +264,7 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 | [0300-longest-increasing-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/haydentinker/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/haydentinker/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/haydentinker/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/haydentinker/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/haydentinker/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -487,4 +490,16 @@ Link to extension: https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfa
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/haydentinker/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/haydentinker/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
